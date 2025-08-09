@@ -49,7 +49,7 @@ Three machine learning algorithms were tested:
 ## 🚀 How to Run
 1. **Clone the repository**
    ```bash
-   git clone https://github.com/yourusername/Hate_Speech.git
+   git clone https://github.com/jhvyas07/Hate-Speech-Detection-Model.git
    cd Hate_Speech
    ```
    
